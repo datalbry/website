@@ -1,0 +1,12 @@
+.tabs {
+
+}
+
+.title {
+    flex: 1;
+}
+
+.bar {
+    color: #2D3142;
+    background: #ffffff;
+}

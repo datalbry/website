@@ -1,0 +1,5 @@
+export const linkDoc = "https://docs.datalbry.io"
+export const linkHome = "/"
+export const linkPricing = "/pricing"
+export const linkPlatform = "/platform"
+export const linkLogin = "/login"
